@@ -1,6 +1,18 @@
 # jQuery-Simple-Pagination
 Allows you to create paginations between divs with only html.
 
+## Usage
+Add a element with:
+* "pagination" class.
+* Same data-id 
+* Different data-page for different pages 
+
+And calls it from a element with:
+* "pagination" rel.
+* Same data-id 
+* Same 
+data-page.
+
 ## Example Code
 ```
 <div style="width:400px;border: 1px solid #000"> <!-- Example Div -->
@@ -17,5 +29,3 @@ Allows you to create paginations between divs with only html.
 ```
 
 Easy as you see.
-
-Add a element with "pagination" class, data-id and data-page and calls it from a element with rel="pagination".
