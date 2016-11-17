@@ -1,5 +1,5 @@
 # jQuery-Simple-Pagination
-Allows you to create paginations between divs only with html.
+Allows you to create paginations between divs with only html.
 
 ## Example Code
 ```
