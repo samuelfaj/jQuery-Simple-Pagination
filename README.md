@@ -2,12 +2,12 @@
 Allows you to create paginations between divs with only html.
 
 ## Usage
-Add a element with:
+Add an element with:
 * "pagination" class.
 * Same data-id 
 * Different data-page for different pages 
 
-And calls it from a element with:
+And calls it from an element with:
 * "pagination" rel.
 * Same data-id 
 * Same 
@@ -28,4 +28,4 @@ data-page.
 <script>$.simple_pagination();</script>
 ```
 
-Easy as you see.
+Easy, as you can see.
