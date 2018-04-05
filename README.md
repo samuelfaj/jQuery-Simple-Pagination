@@ -25,7 +25,7 @@
 <a sp-link data-id="my-id" data-page="1" href="#">1</a>
 ```
 
-## Example
+## Example of Code
 ```html
 <div sp data-id="my-id" data-page="1">Page 1</div>
 <div sp data-id="my-id" data-page="2">Page 2</div>
