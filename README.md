@@ -12,8 +12,8 @@
 ## Usage
 * Add an unique `data-id` for the divs and links group.
 * Add a page, it must have a `sp` attribute, an unique `data-page` number and the same group `data-id`.
-* Add a link to this page, it must have a `sp-link` attribute, the `data-page` which it'll call and the same group `data-id`.
-* The element of page/link doesn't matter. It can be a div, an link, a span...
+* Add a link to this page, it must have a `sp-link` attribute, an equal `data-page` and the same group `data-id`.
+* The page/link element doesn't matter. It can be a div, a link, a span...
 
 **Example of page:**
 ```html 
